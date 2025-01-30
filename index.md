@@ -5,7 +5,18 @@ permalink: /
 title: "ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation"
 
 authors: |
-    Anonymous Submission
+    Minghua He<sup>1</sup>*, Fangkai Yang<sup>2</sup>, Pu Zhao<sup>2</sup>, Wenjie Yin<sup>3</sup>, Yu Kang<sup>2</sup>, Qingwei Lin<sup>2</sup>, Saravan Rajmohan<sup>2</sup>, Dongmei Zhang<sup>2</sup>, Qi Zhang<sup>2</sup>
+
+affiliations: |
+    <sup>1</sup> Peking University, China,<br>
+    <sup>2</sup> Microsoft, China<br>
+    <sup>3</sup> KTH Royal Institute of Technology, Sweden
+
+notes: |
+    * Work is done during an internship at Microsoft.
+
+contact: |
+    hemh2120@stu.pku.edu.cn
 
 paper: |
     https://arxiv.org/
@@ -91,3 +102,15 @@ He used the concept of a universal Turing machine to prove that the set of compu
 ## Significance
 Turing's paper laid the foundation for the theory of computation and had a profound impact on the development of computer science. The Turing machine became a fundamental concept in theoretical computer science, serving as a theoretical model for studying the limits and capabilities of computation. Turing's work also influenced the development of programming languages, algorithms, and the design of modern computers. -->
 
+<!-- ## Citation
+```
+@misc{zhang2024visionautonomiccomputingllms,
+      title={The Vision of Autonomic Computing: Can LLMs Make It a Reality?}, 
+      author={Zhiyang Zhang and Fangkai Yang and Xiaoting Qin and Jue Zhang and Qingwei Lin and Gong Cheng and Dongmei Zhang and Saravan Rajmohan and Qi Zhang},
+      year={2024},
+      eprint={2407.14402},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2407.14402}, 
+}
+``` -->
