@@ -19,7 +19,7 @@ contact: |
     hemh2120@stu.pku.edu.cn
 
 paper: |
-    https://arxiv.org/
+    https://arxiv.org/abs/2501.18460
 
 code: |
     https://github.com/ExeCoder4Trans/ExeCoder
