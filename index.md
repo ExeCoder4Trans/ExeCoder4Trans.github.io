@@ -102,15 +102,15 @@ He used the concept of a universal Turing machine to prove that the set of compu
 ## Significance
 Turing's paper laid the foundation for the theory of computation and had a profound impact on the development of computer science. The Turing machine became a fundamental concept in theoretical computer science, serving as a theoretical model for studying the limits and capabilities of computation. Turing's work also influenced the development of programming languages, algorithms, and the design of modern computers. -->
 
-<!-- ## Citation
+## Citation
 ```
-@misc{zhang2024visionautonomiccomputingllms,
-      title={The Vision of Autonomic Computing: Can LLMs Make It a Reality?}, 
-      author={Zhiyang Zhang and Fangkai Yang and Xiaoting Qin and Jue Zhang and Qingwei Lin and Gong Cheng and Dongmei Zhang and Saravan Rajmohan and Qi Zhang},
-      year={2024},
-      eprint={2407.14402},
+@misc{he2025execoderempoweringlargelanguage,
+      title={ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation}, 
+      author={Minghua He and Fangkai Yang and Pu Zhao and Wenjie Yin and Yu Kang and Qingwei Lin and Saravan Rajmohan and Dongmei Zhang and Qi Zhang},
+      year={2025},
+      eprint={2501.18460},
       archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2407.14402}, 
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2501.18460}, 
 }
-``` -->
+```
