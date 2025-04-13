@@ -8,7 +8,7 @@ authors: |
     Minghua He<sup>1</sup>*, Fangkai Yang<sup>2</sup>, Pu Zhao<sup>2</sup>, Wenjie Yin<sup>3</sup>, Yu Kang<sup>2</sup>, Qingwei Lin<sup>2</sup>, Saravan Rajmohan<sup>2</sup>, Dongmei Zhang<sup>2</sup>, Qi Zhang<sup>2</sup>
 
 affiliations: |
-    <sup>1</sup> Peking University, China,<br>
+    <sup>1</sup> Peking University, China<br>
     <sup>2</sup> Microsoft, China<br>
     <sup>3</sup> KTH Royal Institute of Technology, Sweden
 
