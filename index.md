@@ -22,7 +22,7 @@ paper: |
     https://arxiv.org/abs/2501.18460
 
 code: |
-    https://github.com/ExeCoder4Trans/ExeCoder
+    https://github.com/Microsoft/ExeCoder
 # video: |
 #     https://youtu.be/IFFLb5mgzY0
 ---
